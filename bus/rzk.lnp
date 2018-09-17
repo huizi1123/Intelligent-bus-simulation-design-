@@ -1,0 +1,5 @@
+"STARTUP.obj",
+"RC522.obj",
+"ceshiuu.obj" 
+TO "rzk" 
+RAMSIZE(256) 
